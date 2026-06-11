@@ -136,25 +136,23 @@ Supports:
 
 ### Welcome Intent
 
-<img src="screenshots/welcome-intent.png" alt="Welcome Intent" width="900"/>
+<img src="welcome-intent.png.png" width="900">
 
 ### Investment Advisor Intent
 
-<img src="screenshots/investment-advisor.png" alt="Investment Advisor" width="900"/>
+<img src="investment-advisor.png.png" width="900">
 
 ### Loan Advisor Intent
 
-<img src="screenshots/loan-advisor.png" alt="Loan Advisor" width="900"/>
+<img src="loan-advisor.png.png" width="900">
 
 ### EMI Calculator Intent
 
-<img src="screenshots/emi-calculator.png" alt="EMI Calculator" width="900"/>
+<img src="emi-calculator.png.png" width="900">
 
 ### ROI Intent
 
-<img src="screenshots/roi-intent.png" alt="ROI Intent" width="900"/>
-
----
+<img src="roi-intent.png.png" width="900">
 
 ## 🏦 Real-World Applications
 
