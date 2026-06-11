@@ -1,21 +1,32 @@
-# mba-finance-ai-chatbot-dialogflow
 # 💰 MBA Finance Assistant Chatbot using Dialogflow
 
 ## 📌 Project Overview
 
-MBA Finance Assistant is a Conversational AI chatbot developed using Google Dialogflow. The chatbot acts as a virtual financial assistant that helps users understand and explore various financial concepts, investment options, loan guidance, EMI information, tax-saving strategies, insurance planning, budgeting techniques, and financial ratio analysis.
+MBA Finance Assistant is a Conversational AI chatbot developed using Google Dialogflow.
 
-This project demonstrates the application of Artificial Intelligence (AI), Natural Language Processing (NLP), and Conversational AI in Banking, Financial Services, and FinTech industries.
+The chatbot acts as a virtual financial assistant capable of answering common finance-related questions and providing guidance on:
+
+* Investment Planning
+* Loan Advisory
+* EMI Understanding
+* Credit Score Improvement
+* Tax Saving
+* Insurance Planning
+* Budgeting
+* Financial Ratio Analysis
+* Capital Budgeting Techniques
+
+This project demonstrates how Conversational AI and Natural Language Processing (NLP) can be applied in Banking, Financial Services, and FinTech industries.
 
 ---
 
 ## 🎯 Objectives
 
-* Build an intelligent finance chatbot using Google Dialogflow.
-* Understand intent-based conversational design.
-* Apply Natural Language Processing (NLP) concepts in financial services.
-* Improve customer interaction through automation.
-* Demonstrate real-world banking and financial chatbot applications.
+* Build an intelligent finance chatbot using Dialogflow
+* Understand Intent-Based Conversational Design
+* Apply NLP concepts in financial services
+* Improve customer interaction through automation
+* Demonstrate real-world banking chatbot applications
 
 ---
 
@@ -117,6 +128,7 @@ Supports:
 * Break_Even_Intent
 * Current_Ratio_Intent
 * Debt_Equity_Intent
+* Default_Fallback_Intent
 
 ---
 
@@ -124,23 +136,23 @@ Supports:
 
 ### Welcome Intent
 
-![Welcome Intent](screenshots/welcome-intent.png)
+<img src="screenshots/welcome-intent.png" alt="Welcome Intent" width="900"/>
 
 ### Investment Advisor Intent
 
-![Investment Advisor](screenshots/investment-advisor.png)
+<img src="screenshots/investment-advisor.png" alt="Investment Advisor" width="900"/>
 
 ### Loan Advisor Intent
 
-![Loan Advisor](screenshots/loan-advisor.png)
+<img src="screenshots/loan-advisor.png" alt="Loan Advisor" width="900"/>
 
 ### EMI Calculator Intent
 
-![EMI Calculator](screenshots/emi-calculator.png)
+<img src="screenshots/emi-calculator.png" alt="EMI Calculator" width="900"/>
 
 ### ROI Intent
 
-![ROI Intent](screenshots/roi-intent.png)
+<img src="screenshots/roi-intent.png" alt="ROI Intent" width="900"/>
 
 ---
 
@@ -200,7 +212,7 @@ Through this project, students learn:
 
 ## 🎓 Academic Relevance
 
-This project was developed as part of MBA Finance studies to demonstrate the application of Artificial Intelligence, Conversational AI, and Natural Language Processing in modern financial services.
+This project was developed as part of MBA/IPM Finance studies to demonstrate the application of Artificial Intelligence, Conversational AI, and NLP in modern financial services.
 
 ---
 
